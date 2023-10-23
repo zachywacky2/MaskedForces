@@ -25,10 +25,10 @@
     "patch/gamepix/gamepix-adapter.js"
   ],
   "sizes": {
-    "br/bin.data._.js.br": 1535275,
-    "br/bin.data.js.br": 3833,
-    "br/wbin.js.br": 44841,
-    "br/wbin._.js.br": 276029,
+    "br/bin.data._.js.brx": 1535275,
+    "br/bin.data.js.brx": 3833,
+    "br/wbin.js.brx": 44841,
+    "br/wbin._.js.brx": 276029,
     "gz/bin.data.js.gz": 5193,
     "gz/bin.data._.js.gz": 1602134,
     "gz/wbin.js.gz": 52214,
